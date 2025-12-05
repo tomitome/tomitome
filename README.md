@@ -11,8 +11,8 @@ My research focuses on the *one-dimensional tellurides* **M₄SiTe₄ (M = Ta, N
 
 ## 📘 Featured Publication
 ### **Optimal Carrier Concentration of Low-Temperature Thermoelectric Material M₄SiTe₄ (M = Ta, Nb)**  
-*Journal of the Physical Society of Japan (2025)*  
-(analysis based on uploaded PDF)
+*Journal of the Physical Society of Japan (2025)* — [Link to paper](https://journals.jps.jp/doi/full/10.7566/JPSJ.94.114705)
+
 
 - Demonstrated accurate **first-principles predictions of Seebeck coefficient & Hall carrier concentration**.  
 - Revealed that **optimal ZT occurs at ~10²⁰–10²¹ cm⁻³** for both n- and p-type systems.  
@@ -33,7 +33,7 @@ My research focuses on the *one-dimensional tellurides* **M₄SiTe₄ (M = Ta, N
 
 ## 📊 Skills & Tools
 ### **Computational**
-- **DFT:** VASP, QE (ONCVPSP, PseudoDojo)  
+- **DFT:** VASP, QE
 - **Transport:** BoltzTraP2, AMSET  
 - **Phonons:** ALAMODE  
 - **Python:** pandas, numpy, matplotlib  
