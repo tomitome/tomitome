@@ -21,6 +21,16 @@ My research focuses on the *one-dimensional tellurides* **M₄SiTe₄ (M = Ta, N
 
 ---
 
+## 🔥 Highlight — Key Result from My Paper
+> **ZT is maximized when μ slightly overlaps the band edge**, typically at  
+> **10²⁰–10²¹ cm⁻³**,  
+> demonstrating that both Ta₄SiTe₄ and Nb₄SiTe₄ benefit from a band structure nearly symmetric with respect to EF.  
+>
+> **p-type samples have room for improvement** — tuning carrier concentration can significantly enhance performance.
+
+
+---
+
 ## 🧪 Research Keywords
 - Low-dimensional thermoelectrics  
 - Boltzmann transport theory  
@@ -41,13 +51,34 @@ My research focuses on the *one-dimensional tellurides* **M₄SiTe₄ (M = Ta, N
 ### **Experimental**
 - Hall effect (van der Pauw / FastHall)  
 - Seebeck measurement  
-- Electrical transport at low temperatures  
+- Electrical transport at low temperatures
 
 ---
 
-## 🔥 Highlight — Key Result from My Paper
-> **ZT is maximized when μ slightly overlaps the band edge**, typically at  
-> **10²⁰–10²¹ cm⁻³**,  
-> demonstrating that both Ta₄SiTe₄ and Nb₄SiTe₄ benefit from a band structure nearly symmetric with respect to EF.  
->
-> **p-type samples have room for improvement** — tuning carrier concentration can significantly enhance performance.
+## 🌍 International Conference Presentations
+1. **Gakuto Tomitaka**, Shoya Kawano, Yoshihiko Okamoto, Kazuyuki Matsuhira,  
+   *First-Principles Study of Thermoelectric Properties of One-Dimensional Telluride Ta₄SiTe₄*,  
+   **Correlated Quantum Materials + beyond : Symposium (CQM+b2024)**, Poster No. 8, Kashiwa (Japan), November 2024.
+
+2. **Gakuto Tomitaka**, Shoya Kawano, Yoshihiko Okamoto, Kazuyuki Matsuhira,  
+   *First-Principles Study of Thermoelectric Properties of One-Dimensional Telluride Ta₄SiTe₄ and Nb₄SiTe₄*,  
+   **The 41st International and 7th Asian Conference on Thermoelectrics (ICT/ACT 2025)**, Poster No. 240, Sendai (Japan), June 2025.
+
+---
+
+## 🇯🇵 Domestic Conferences & Symposiums
+1. **冨髙峻也**, 河野翔也, 岡本佳比古, 松平和之  
+   「第一原理計算による1次元ファンデルワールス物質 Ta₄SiTe₄ の熱電特性の研究」  
+   第130回 物理学会九州支部例会, 講演番号 E-14, 福岡県, 2024年11月（口頭発表）
+
+2. **冨髙峻也**, 河野翔也, 岡本佳比古, 松平和之  
+   「第一原理計算による1次元ファンデルワールス物質 Ta₄SiTe₄ と Nb₄SiTe₄ の熱電特性」  
+   第80回 低温工学・超電導学会秋季講演会, 講演番号 16aSK108-14, 広島県, 2025年9月（口頭発表）
+
+3. **冨髙峻也**, 河野翔也, 岡本佳比古, 松平和之  
+   「第一原理計算による高性能熱電特性を示す新規テルル化物の研究」  
+   第19回 物性科学領域横断研究会（領域合同研究会）ポスター番号：29, 千葉県, 2025年11月（ポスター発表）
+
+4. **冨髙峻也**, 河野翔也, 岡本佳比古, 松平和之  
+   「第一原理計算による立方晶テルル化物 ReSTe の熱電効果の研究」  
+   第131回 日本物理学会九州支部例会, 講演番号, 熊本県, 2025年12月（口頭発表）
