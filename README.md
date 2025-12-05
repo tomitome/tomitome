@@ -1,58 +1,53 @@
-# 🔬 One-Dimensional Thermoelectrics: M₄SiTe₄ (M = Ta, Nb) のキャリア濃度最適化研究
-
-熱電材料は、廃熱から電気を生み出すクリーンエネルギー技術の中核です。本研究は、特に低温度域で高い性能が報告されている一次元テルル化物 **M₄SiTe₄** (M=Ta, Nb) の性能を、第一原理計算と輸送理論に基づき、理論的に最大化するキャリア濃度を解明しました。
-
----
-
-## 🌟 研究ハイライト：なぜこの材料と研究が重要なのか？
-
-私たちは、特異な結晶構造を持つ **M₄SiTe₄** システムに焦点を当てました。
-
-* [cite_start]**一次元電子構造:** c軸に沿った**強い一次元鎖**を持ち、バンド分散はc軸に垂直な方向よりもc軸方向の方が著しく大きく、**一次元的な電子構造**を示します [cite: 16, 17, 21, 22]。
-* [cite_start]**高パワーファクター:** n型 $Ta_{4}SiTe_{4}$ は、室温付近で従来の $Bi_{2}Te_{3}$ 系材料の**約4倍**となる**驚異的なパワーファクター $P = 170 \mu W cm^{-1}K^{-2}$** を記録しています [cite: 19]。
-* [cite_start]**実用性:** n型（Mo置換）とp型（Ti置換）の両方が実現可能であり、熱電デバイス構成に適した材料です [cite: 25, 27]。
+# 🎓 Gakuto Tomitaka — Materials Scientist / Thermoelectrics Researcher
+### *Optimizing carrier concentration to push the limits of low-temperature thermoelectrics.*
 
 ---
 
-## 💡 課題と私たちの貢献
-
-[cite_start]先行研究において、p型 $M_{4}SiTe_{4}$ の最大パワーファクター $P$ はn型よりも**大幅に低い**という課題がありました [cite: 28][cite_start]。本研究の目的は、このp型 $M_{4}SiTe_{4}$ の熱電性能を向上させるため、**キャリア濃度が性能指数ZTを最大化する条件**を理論的に特定することです [cite: 32, 33]。
-
-### ⚙️ 使用した主要な計算手法
-
-| 手法 | 目的 | 採用した理論/コード |
-| :--- | :--- | :--- |
-| **電子構造計算** | バンド構造の決定 | [cite_start]VASP (SOIを考慮) [cite: 51] |
-| **輸送係数計算** | $S$, $\sigma/\tau$, $\kappa_{el}/\tau$ の算出 | [cite_start]BoltzTraP2 (CRTA, Rigid-band近似) [cite: 55] |
-| **格子熱伝導率** | $\kappa_{lat}$ の推定 | [cite_start]ALAMODE, QUANTUM ESPRESSO (フォノン計算) [cite: 69, 70, 72] |
-| **最適化** | $ZT$ の最大化条件の決定 | [cite_start]$ZT=\frac{S^{2}\sigma T}{\kappa_{el}+\kappa_{lat}}$ ( $\tau=10 fs$ を使用) [cite: 38, 242] |
+## 🔬 About Me
+I am a graduate student at **Kyushu Institute of Technology**, working on the **electronic structure and transport properties** of low-dimensional thermoelectric materials.  
+My research focuses on the *one-dimensional tellurides* **M₄SiTe₄ (M = Ta, Nb)**, exploring how band topology, spin–orbit coupling, and carrier concentration interplay to enhance thermoelectric performance.
 
 ---
 
-## 🔑 主要な発見（Optimal Carrier Concentration）
+## 📘 Featured Publication
+### **Optimal Carrier Concentration of Low-Temperature Thermoelectric Material M₄SiTe₄ (M = Ta, Nb)**  
+*Journal of the Physical Society of Japan (2025)*  
+(analysis based on uploaded PDF)
 
-### 1. n型 $M_{4}SiTe_{4}$ の最適化
-* [cite_start]n型 $M_{4}SiTe_{4}$ の最適なキャリア濃度は、**従来の実験から推定された範囲内**に存在し、すでに最適化されていることが確認されました [cite: 458, 466]。
-
-### 2. p型 $M_{4}SiTe_{4}$ の性能向上への示唆
-* [cite_start]**p型 $M_{4}SiTe_{4}$** については、**ZTを最大化する最適なキャリア濃度は、従来の実験値よりも高い**ことが判明しました [cite: 39, 460, 467]。
-* [cite_start]この結果は、実験においてキャリア濃度をさらに高めることが、p型 $M_{4}SiTe_{4}$ の熱電性能を**強化する**という明確な指針を提供します [cite: 14, 461, 468]。
-
-### 3. ZT最大化の共通範囲
-* [cite_start]n型およびp型 $M_{4}SiTe_{4}$ の両方で、ZTは**$10^{20}$ ～ $10^{21} cm^{-3}$** の範囲で最大化されました [cite: 461]。
-* [cite_start]これは、電子構造がフェルミエネルギー $E_{F}$ に対して概ね対称的であること（$Ta_{4}SiTe_{4}$ は $Nb_{4}SiTe_{4}$ よりもバンドギャップが大きい [cite: 23, 87][cite_start]）と対応しており、キャリアがバンドにわずかに重なり始めた領域です [cite: 462, 464]。
-
-
+- Demonstrated accurate **first-principles predictions of Seebeck coefficient & Hall carrier concentration**.  
+- Revealed that **optimal ZT occurs at ~10²⁰–10²¹ cm⁻³** for both n- and p-type systems.  
+- Showed that **p-type M₄SiTe₄ is not yet experimentally optimized** — higher carrier concentration can further boost ZT.  
+- Combined **DFT (VASP / QE)**, **Boltzmann transport calculations (BoltzTraP2)**, and **phonon calculations (ALAMODE)** for a full thermoelectric analysis.
 
 ---
 
-## 🚀 研究の意義
-
-* 本研究は、低温度熱電材料 $M_{4}SiTe_{4}$ のp型性能向上のための**具体的なキャリア濃度目標値**を提示しました。
-* [cite_start]第一原理計算と輸送理論を組み合わせることで、熱電半導体の最適なキャリア濃度を**予測**し、材料合成を指導するための有用なアプローチであることを示しました [cite: 508]。
+## 🧪 Research Keywords
+- Low-dimensional thermoelectrics  
+- Boltzmann transport theory  
+- First-principles calculations (VASP, Quantum ESPRESSO)  
+- Carrier concentration engineering  
+- Spin–orbit coupling & narrow-gap semiconductors  
+- Lattice thermal conductivity modeling  
 
 ---
 
-## 💻 技術キーワード
+## 📊 Skills & Tools
+### **Computational**
+- **DFT:** VASP, QE (ONCVPSP, PseudoDojo)  
+- **Transport:** BoltzTraP2, AMSET  
+- **Phonons:** ALAMODE  
+- **Python:** pandas, numpy, matplotlib  
 
-`First-Principles Calculation` / `Boltzmann Transport Theory` / `Thermoelectric Figure of Merit (ZT)` / `Optimal Carrier Concentration` / `$M_{4}SiTe_{4}$` / `Constant Relaxation Time Approximation (CRTA)` / `DFT` / `VASP` / `BoltzTraP2` / `Phonon Calculation`
+### **Experimental**
+- Hall effect (van der Pauw / FastHall)  
+- Seebeck measurement  
+- Electrical transport at low temperatures  
+
+---
+
+## 🔥 Highlight — Key Result from My Paper
+> **ZT is maximized when μ slightly overlaps the band edge**, typically at  
+> **10²⁰–10²¹ cm⁻³**,  
+> demonstrating that both Ta₄SiTe₄ and Nb₄SiTe₄ benefit from a band structure nearly symmetric with respect to EF.  
+>
+> **p-type samples have room for improvement** — tuning carrier concentration can significantly enhance performance.
