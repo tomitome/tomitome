@@ -1,4 +1,4 @@
-# 🎓 Gakuto Tomitaka — Materials Scientist / Thermoelectrics Researcher
+# 🎓 Gackt Tomitaka — Materials Scientist / Thermoelectrics Researcher
 ### *Optimizing carrier concentration to push the limits of low-temperature thermoelectrics.*
 
 ---
