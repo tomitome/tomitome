@@ -63,3 +63,14 @@ My research focuses on the *one-dimensional tellurides* **M₄SiTe₄ (M = Ta, N
 2. **Gakuto Tomitaka**, Shoya Kawano, Yoshihiko Okamoto, Kazuyuki Matsuhira,  
    *First-Principles Study of Thermoelectric Properties of One-Dimensional Telluride Ta₄SiTe₄ and Nb₄SiTe₄*,  
    **The 41st International and 7th Asian Conference on Thermoelectrics (ICT/ACT 2025)**, Poster No. 240, Sendai (Japan), June 2025.
+
+
+---
+
+## 🏍️ Personal Interests
+**"Research hard, ride far."**
+研究活動の傍ら、バイクでのツーリングや動画制作を行っています。
+学生時代には**バイクでの日本一周**を達成しました。
+
+[![日本一周動画](https://img.youtube.com/vi/t8i7MidauPk/maxresdefault.jpg)](https://www.youtube.com/watch?v=t8i7MidauPk)
+> 🎥 **Watch on YouTube:** [バイク日本一周の記録 / Japan Round Trip](https://www.youtube.com/watch?v=t8i7MidauPk)
